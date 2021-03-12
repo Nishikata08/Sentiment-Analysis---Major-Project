@@ -1,5 +1,7 @@
 streamlit
 pandas
-sklearn
 emoji
 string
+sklearn
+
+
