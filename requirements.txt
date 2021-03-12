@@ -5,3 +5,4 @@ nltk
 numpy
 string
 emoji
+pyngrok==4.1.1
